@@ -1,0 +1,204 @@
+id,type,sign_name,question,option_a,option_b,option_c,option_d,answer,explanation,handbook_ref,image_ref
+1,general,NA,什么情况下携带驾驶证？I.引擎运转时坐在驾驶座位上 II.汽车被其他车辆推动或牵引时驾驶该车,只I,只II,I. II 均可,I. II 皆非,C,引擎运转或被牵引时驾驶都需要携带驾驶证,chapter_1,NA
+2,general,NA,法官断言一驾驶者拒绝依法进行化学或呼吸分析器测试DMV将要...,把驾驶者置于监视之下,采取措施之前等待法庭的决定,要求驾驶者到驾驶训练所学习,撤销驾驶执照至少12个月,D,拒绝测试将导致至少12个月的执照撤销,chapter_2,NA
+3,general,NA,以下哪一项正好适合记点制度？I.驾驶者在三年内记4点将得到警告信 II.驾驶者在三年内记12点将失去驾照,只I,只II,I. II 均可,I. II 皆非,B,三年内记12点将失去驾照,chapter_2,NA
+4,general,NA,当驾驶者总共计分7点可能会发生什么？I.要求驾驶者提供经济担保证明 II.驾驶者完成驾驶训练所学习可减3个点,只I,只II,I. II 均可,I. II 皆非,B,完成驾驶训练可以减少3个点,chapter_2,NA
+5,general,NA,以下哪一项罚点数最高？,鲁莽开车,撞坏他人车后逃跑,没有驾驶执照开车,超过一辆小孩正在下车的校车,D,超过正在下车的校车记5分罚点数最高,chapter_3,NA
+6,general,NA,驾驶者在哪种情况下将失去驾照？,没有驾驶执照时开车,超过一辆停着的校车,没有让给有先行权的车辆,在时速55英里的地带超过70英里,D,严重超速将导致失去驾照,chapter_3,NA
+7,general,NA,取回撤销的驾驶执照必须做到...I.得到当地驾驶部门重新申请执照的许可 II.去驾驶部门支付恢复费重新申请执照,只I,只II,I. II 均可,I. II 皆非,C,两项都需要完成才能取回执照,chapter_2,NA
+8,general,NA,大约一半的车祸发生于...I.饮酒过度者 II.与一台以上车辆有关,只I,只II,I. II 均可,I. II 皆非,A,约一半车祸涉及饮酒过度,chapter_4,NA
+9,general,NA,饮酒过度导致意外死亡的比率是...,10%,50%,38%,67%,C,饮酒过度导致38%的意外死亡,chapter_4,NA
+10,general,NA,以下哪一个关于行人死亡的陈述是正确的？I.在城市死于车祸的5人中有2人是行人 II.死于车祸的行人当中多数人是青少年,只I,只II,I. II 均可,I. II 皆非,A,城市车祸死亡中40%是行人,chapter_5,NA
+11,general,NA,晚上在没有人行道的路上行走应怎样做？I.穿或拿白色东西在与车辆相反方向一边行走 II.走在与车流同方向的一边,只I,只II,I. II 均可,I. II 皆非,A,应该在相反方向行走并穿白色衣物,chapter_5,NA
+12,general,NA,在交叉路上没有交通灯谁有优先行使权？,行人优先,驾驶者优先,谁也没有优先权,先到交叉路者优先,A,行人优先,chapter_6,140 images/q12_image.jpeg
+13,general,NA,北卡法律规定车辆多长时间必须验车一次？,6个月,12个月,18个月,24个月,B,车辆每12个月必须验车一次,chapter_1,NA
+14,general,NA,安全驾驶者应该做到...,为了避免离开路线观察路边,经常观察后视镜和侧视镜,为了保持清醒晚上开车时喝咖啡,在高速路上行车时与前车保持两台车的距离,B,安全驾驶需要经常观察后视镜和侧视镜,chapter_7,NA
+15,general,NA,驶进交叉路口右转时应打开右转向灯并...I.稍微向路中心移动以便留点空间向右转 II.把手伸向车外,只I,只II,I. II 均可,I. II 皆非,D,右转时只需打开右转向灯即可ab皆非,chapter_7,NA
+16,general,NA,当驾车长途旅行感到困倦时应当...,停车休息,加速,打开车窗或通气孔放进一些新鲜空气,喝咖啡,A,困倦时必须停车休息,chapter_7,NA
+17,general,NA,驾车长途旅行应该...,时常揉一揉眼睛消除疲劳,避免看一种东西超过几秒钟以上,目视前方道路中心,看前方一样注视车镜,B,避免看一种东西超过几秒钟,chapter_7,NA
+18,general,NA,为了避免其他车撞在后面应该...I.小心开车并经常刹车 II.经常观察后视镜,只I,只II,I. II 均可,I. II 皆非,B,经常观察后视镜,chapter_7,NA
+19,general,NA,研究结果表明非常危险的是...I.中年驾驶者 II.开车慢的驾驶者,只I,只II,I. II 均可,I. II 皆非,B,开车太慢也是非常危险的行为,chapter_7,NA
+20,general,NA,开车太慢在以下情况下特别危险？I.刚刚过山顶 II.刚刚过转弯处,只I,只II,I. II 均可,I. II 皆非,C,刚过山顶或转弯处开车太慢特别危险,chapter_8,NA
+21,general,NA,以下哪种在北卡开阔路面上的限速是正确的？I.除非有交通标志说明汽车货车限速是65英里 II.学校课外活动车的限速是55英里,只I,只II,I. II 均可,I. II 皆非,B,学校课外活动车限速55英里,chapter_8,NA
+22,general,NA,以下哪一项关于在北卡汽车的限速是正确的？I.在市外的限速是55英里除非有特殊交通标志说明 II.在市区的限速是25英里除非有特殊的交通标志说明,只I,只II,I. II 均可,I. II 皆非,A,市外限速55英里除非另有标志,chapter_8,NA
+23,general,NA,在北卡正确的限速是哪项？I.除非有交通标志说明在市区的限速是35英里 II.除非有交通标志说明校外活动车的限速是25英里,只I,只II,I. II 均可,I. II 皆非,A,市区限速35英里除非另有标志,chapter_8,NA
+24,general,NA,在转弯处汽车倾向于...,加速,移向弯道的里圈,保持在道路中心,移向弯道的外圈,D,汽车在转弯处倾向于移向弯道的外圈,chapter_9,NA
+25,general,NA,图中的车在转弯处倾向于走哪条路？,A方向,B方向,C方向,D方向,C,转弯时应走C方向,chapter_9,140 images/q25_image.jpeg
+26,general,NA,急转弯时应注意哪些？I.尽可能靠近左线 II.在急转弯处使用刹车,只I,只II,I. II 均可,I. II 皆非,D,急转弯时应小心谨慎ab皆非,chapter_9,NA
+27,general,NA,哪种情况你的驾照马上被执法部门吊销30天？I.拒绝依法进行化学或者呼吸分析器测验 II.测验结果血液中酒精含量0.08%或以上,只I,只II,I. II 均可,I. II 皆非,C,两种情况都会被吊销30天,chapter_2,NA
+28,general,NA,下陡坡时除了减速还应该做什么？I.使用低档 II.弯弯曲曲的行驶,只I,只II,I. II 均可,I. II 皆非,A,下陡坡时应使用低档,chapter_9,NA
+29,general,NA,图中表明哪辆车的转弯正确？,1号车,2号车,3号车,4号车,C,3号车转弯正确从最近的弯道转弯,chapter_9,140 images/q29_image.jpeg
+30,general,NA,如果在双线路上超车应该采取...I.按汽车喇叭引起前车驾驶者的注意 II.开左转向灯让后车驾驶者知道超越意图,只I,只II,I. II 均可,I. II 皆非,C,按喇叭并开左转向灯,chapter_10,NA
+31,general,NA,图中哪辆车可以超车？,只1号车,只2号车,1、2号车均可,1、2号车皆非,C,多车道上安全时可超越任何旁道上的车,chapter_10,140 images/q31_image.jpeg
+32,general,NA,图中哪辆车可以安全超车？,A车,B车,C车,D车,D,不能超越前方已进入禁止超车路段的车,chapter_10,140 images/q32_image.jpeg
+33,general,NA,图中哪辆车可以安全超过货车？,只1号车,只2号车,1、2号车均可,1、2号车皆非,D,不能超越前方已进入禁止超车路段的车,chapter_10,140 images/q33_image.jpeg
+34,general,NA,在什么条件下从右边超车合法？I.两个方向各有两线 II.单行道,只I,只II,I. II 均可,I. II 皆非,C,两个方向各有两线或单行道时可从右边超车,chapter_10,NA
+35,general,NA,倒车时应注意什么？I.把时速控制在10英里以下转过头眼睛看后面 II.双手握紧方向盘,只I,只II,I. II 均可,I. II 皆非,A,倒车时速控制在10英里以下转过头看后面,chapter_11,NA
+36,general,NA,车流多的地方A车驾驶者看到了B车正要离开停车位A车驾驶者应采取什么行动？,加速超越正在倒退的车,稍微移动一点转向左线道便于让路,减速准备停车,按着喇叭继续行驶,C,减速准备停车,chapter_11,NA
+37,general,NA,你应在何时调节后视镜和侧视镜？,在上车前,在车内开车前,在车辆向后行驶时,在车辆向前行驶时,B,在车内开车前调节后视镜及侧视镜,chapter_11,NA
+38,general,NA,图中哪辆车应该让？,A车,B车,C车,D车,D,转弯的D车要让其他车先走,chapter_12,140 images/q38_image.jpeg
+39,general,NA,车祸发生最频繁的地方是在...,山坡上,弯道上,交叉路上,桥上,C,车祸发生最频繁的地方是在交叉路上,chapter_12,NA
+40,general,NA,交叉路没有交通灯或标志图中按照哪个顺序通过？,A车B车C车,B车A车C车,C车A车B车,B车C车A车,A,交叉路口无交通信号灯应按让右侧车先行的顺序轮流过车ABC,chapter_12,140 images/q40_image.jpeg
+41,general,NA,如图中所示先行权属于...,只有1号车驾驶者,只有2号车驾驶者,只属于行人,只属于1号和行人,D,交叉路口无交通信号灯先行权属于1号车和行人,chapter_12,140 images/q41_image.jpeg
+42,general,NA,交叉路上无交通灯或标志则先行权属于,只有A车,先A车后B车,先B车后A车,B车,D,先行权属于B车,chapter_12,140 images/q42_image.jpeg
+43,general,NA,从市区大街上驾驶时应注意...I.从侧面街道驶入的汽车 II.从停车的车中突然冒出的动物和小孩,只I,只II,I. II 均可,I. II 皆非,C,应注意从侧面街道驶入的车及从停车中冒出的动物和小孩,chapter_13,NA
+44,general,NA,接近没有交通标志的交叉路口视线被树或建筑物挡住而看不清四方时应该...,以交通标志所规定的时速行驶,在交叉路口中心附近停车安全时继续行驶,减速并按喇叭以警告看不见的驾驶者,在交叉路口外停车然后慢慢向前移动,D,在交叉路口外停车然后慢慢向前移动,chapter_13,NA
+45,general,NA,行驶在交通繁忙路段应该注意什么？I.注意突然停车的驾驶者 II.只有在行人穿越道上让给行人,只I,只II,I. II 均可,I. II 皆非,A,注意突然停车的驾驶者,chapter_13,NA
+46,general,NA,在一交叉路上想左转但走错车道应该...,继续往前等下一个交叉路口才转弯,先倒退然后开进正确的车道才转弯,等所有的车通过了交叉路才转弯,警示旁边的驾驶者示意在那车前面转弯,A,继续向前等下一个交叉路口再转弯,chapter_13,NA
+47,general,NA,在高速道路上最常见的车祸类型是...,车身碰撞,驾出路外,首尾碰撞,正面碰撞,C,首尾碰撞,chapter_14,NA
+48,general,NA,在高速道路上长途旅行应准备做什么？I.每100英里在休息站休息 II.计划部分时间在晚上开车以避免车流,只I,只II,I. II 均可,I. II 皆非,A,每100英里在休息站休息,chapter_14,NA
+49,general,NA,在高速路上车发生故障被迫停在路旁应该...,坐在车内耐心等救兵,手巾绑在车左门把手然后站在左挡板前,支起车盖白手巾绑在车左门把手,支起车盖并站在车后以便被正面而来的车辆看见,C,支起车盖白手巾绑在车左门把手,chapter_14,NA
+50,general,NA,研究结果表明高速公路上行驶正常情况下汽车卷入车祸的机会也会很多如果驾驶者...,保持平稳速度,行驶在比交通标志限速相当低的速度,行驶在跟交通标志限速一致的速度,与同一条车线的前后车保持一定的距离,B,比交通标志限速相当低的速度行驶车祸机会很多,chapter_14,NA
+51,general,NA,在高速公路上错过了出口应该怎么做？I.U转弯 II.继续行驶到下一个出口,只I,只II,I. II 均可,I. II 皆非,B,继续行驶到下一出口,chapter_14,NA
+52,general,NA,以下哪种情况使晚上的驾驶者暂时看不清？I.其他车辆的前灯所发出的刺眼强光 II.擦火柴点香烟发出的火焰,只I,只II,I. II 均可,I. II 皆非,C,擦火柴点烟的火焰及其他车前灯强光使驾驶者暂时看不清,chapter_15,NA
+53,general,NA,在什么情况下使用低光灯？I.夜晚在市区 II.大雾或薄雾笼罩的天气,只I,只II,I. II 均可,I. II 皆非,C,夜晚在市区和大雾薄雾天气使用低光灯,chapter_15,NA
+54,general,NA,如靠近的车辆驾驶者没开低光灯怎么办？I.看着前面的路避免直视其他车辆的灯光 II.快速的闪亮前灯一次,只I,只II,I. II 均可,I. II 皆非,C,避免直视其他车辆的灯光并快速闪亮前灯一次,chapter_15,NA
+55,general,NA,夜晚在高速行驶何时不能使用高光灯？,为了转弯而减速时,在没有中央分界带路上行驶时,在下坡行驶时,跟着另外一辆汽车时,D,跟着另一辆车时不能使用高光灯,chapter_15,NA
+56,general,NA,开车时下细雨应该怎么办？I.减速慢行因雨使路面油垢泥沙溶解使路更滑 II.保持正常跟随前车辆2倍的距离,只I,只II,I. II 均可,I. II 皆非,C,下细雨时减速慢行并保持正常跟随前车2倍距离,chapter_16,NA
+57,general,NA,何时路面会更滑？,路刚刚铺好,刚开始下雨或细雨,下雨几小时后,特冷或干燥天气,B,刚开始下雨或细雨时路面更滑,chapter_16,NA
+58,general,NA,在浓雾中驾驶应该...,靠右行驶,减慢速度,紧跟前面的车辆,打开停车灯,B,在浓雾中行驶应减慢速度,chapter_16,NA
+59,general,NA,白天在雨中行驶应该使用...,停车灯,车前低光灯,四面闪光灯,车前高光灯,B,白天雨中行驶应使用车前低光灯,chapter_16,NA
+60,general,NA,在硬雪路面上正常行驶需要...,轮胎带上链条,车辆装雪胎,轮胎的气压比平时略低,汽车行李箱装重物,A,在硬雪路面上需要轮胎带上链条,chapter_17,NA
+61,general,NA,驾驶手排档车辆从很滑路面开车时应...I.用二档或二档以上高档 II.迅速加速,只I,只II,I. II 均可,I. II 皆非,A,从很滑路面开车应使用二档或以上高档,chapter_17,NA
+62,general,NA,拉着拖车下长陡坡时应该...I.使用低档 II.保持在右边车道行驶,只I,只II,I. II 均可,I. II 皆非,C,拖车下长坡应使用低档并保持右车道行驶,chapter_17,NA
+63,general,NA,如果刹车失灵应该...I.换低档 II.使用紧急刹车,只I,只II,I. II 均可,I. II 皆非,C,刹车失灵应换低档并使用紧急刹车,chapter_17,NA
+64,general,NA,怎样使湿的刹车变干？I.打开暖气 II.换低档轻踩刹车,只I,只II,I. II 均可,I. II 皆非,B,换低档轻踩刹车使湿刹车变干,chapter_17,NA
+65,general,NA,在高速行驶时轮胎爆破应该...I.发现轮胎爆破之后立刻踩牢刹车 II.握紧驾驶盘防止车偏向松掉油门完全停出路面,只I,只II,I. II 均可,I. II 皆非,B,轮胎爆破应紧握方向盘防止车偏向松掉油门完全停出路面,chapter_17,NA
+66,general,NA,换漏气轮胎时应该...I.用空档 II.锁住车轮,只I,只II,I. II 均可,I. II 皆非,B,换漏气轮胎应锁住车轮,chapter_17,NA
+67,general,NA,夜晚车在高速公路上发生故障应该...I.将车安全停在路外 II.开高光灯,只I,只II,I. II 均可,I. II 皆非,A,将车安全停在路外,chapter_17,NA
+68,general,NA,夜晚车在高速公路上发生故障应该...I.支起车盖白手巾绑在车左门把手上 II.打开停车灯或危险灯,只I,只II,I. II 均可,I. II 皆非,C,支起车盖白手巾绑在车左门把手并打开停车灯或危险灯,chapter_17,NA
+69,general,NA,如果车被开到路肩上应该...,立刻换低档,不断踩牢刹车,使用紧急刹车,将脚慢慢离开油门,D,将脚慢慢离开油门,chapter_17,NA
+70,general,NA,哪种路面容易发生打滑？I.冰雪淤积的路面 II.刚刚铺设的路面,只I,只II,I. II 均可,I. II 皆非,A,冰雪淤积的路面容易打滑,chapter_17,NA
+71,general,NA,如果不得不在结冰路面上停车应该...,使用手刹车器,用力踩刹车器,猛然多次使用刹车器,轻踩刹车器,D,在结冰路面上停车应轻踩刹车器,chapter_17,NA
+72,general,NA,车开始打滑时应该...I.把驾驶盘转向车尾打滑方向 II.减轻踩油门的压力,只I,只II,I. II 均可,I. II 皆非,C,车打滑时把方向盘转向车尾打滑方向并减轻踩油门的压力,chapter_17,NA
+73,general,NA,驾驶者卷入车祸时应该...I.立刻和最近的法律实施部门报告 II.正式通知自己的保险公司,只I,只II,I. II 均可,I. II 皆非,C,卷入车祸时立刻和法律部门报告并通知保险公司,chapter_18,NA
+74,general,NA,在交叉路上红色交通闪灯代表...I.减速慢行小心通过 II.只有在把优先权让给别人时停车,只I,只II,I. II 均可,I. II 皆非,D,红色交通灯闪烁代表停车ab皆非,chapter_19,NA
+75,general,NA,在交叉路上黄色交通闪灯代表...,不准右转,让优先权,不准左转,减速慢行小心通过,D,黄色交通灯闪烁减速慢行小心通过,chapter_19,NA
+76,general,NA,菱形交通标志用来警告驾驶者进入了如下危险区...I.火车平交道 II.鹿出没区,只I,只II,I. II 均可,I. II 皆非,B,菱形交通标志警告驾驶者进入鹿出没危险区,chapter_19,NA
+77,general,NA,菱形交通标志象征...,不准左转,让优先权,完全停车,减速慢行小心通过,D,菱形交通标志表示减速慢行小心通过,chapter_19,NA
+78,general,NA,什么情况下可以忽视警察的指挥？I.当紧急车辆接近时 II.当警察跟交通信号发生冲突时,只I,只II,I. II 均可,I. II 皆非,D,什么情况下均不得忽视警察的指挥ab皆非,chapter_19,NA
+79,general,NA,高速公路上施工地带标志的主要颜色是...,红色,白色,橙色,绿色,C,施工地带标志主要颜色是橙色,chapter_19,NA
+80,general,NA,在没有交通信号灯的交叉路口什么情况下法律给予盲人的特权有效？I.只有一个人的时候 II.如果拿着白色红贴的拐杖或有导盲犬引路,只I,只II,I. II 均可,I. II 皆非,B,拿白色红贴拐杖或有导盲犬引路的盲人有法律特权,chapter_20,NA
+81,general,NA,以下哪项关于小孩骑自行车的描述是正确的？I.必须面对车流骑自行车 II.他们在几乎所有的情况下跟车擦都会严重致伤,只I,只II,I. II 均可,I. II 皆非,B,几乎所有情况下骑自行车的小孩和汽车相撞都会严重致伤,chapter_20,NA
+82,general,NA,在北卡每辆车需要有什么样的必需品？,车牌照灯,门下灯,侧灯,倒退灯,A,北卡的每部车上都必须配有车牌照灯,chapter_21,NA
+83,general,NA,刹车器在什么时候需要检查？,车内有很强的汽油味,引擎在停车信号灯熄火,阵风吹来时很难控制车辆,踩刹车器时出现擦擦声,D,离合器在踩刹车时擦擦作响需要检查,chapter_21,NA
+84,general,NA,以下关于喇叭和报警器的陈述哪一个是正确的？I.有执照的车辆必须有喇叭 II.只有警察车和紧急车辆可以装有警报器,只I,只II,I. II 均可,I. II 皆非,C,有执照的车必须有喇叭只有警车和紧急车辆可以装报警器,chapter_21,NA
+85,general,NA,每个车辆必须装有...,消音器,四层厚轮胎,挡泥板,安全带,A,每辆车都必须装消音器,chapter_21,NA
+86,general,NA,从引擎到车尾承受并消除有害气体的部分叫做...,点火装置,燃料装置,车体支持装置,排气装置,D,从引擎到车尾承受并消除有害气体的部分叫排气装置,chapter_21,NA
+87,general,NA,容易漏的排气装置必须修理因为...,浪费汽油和机油,使引擎过热,会使毒气进入车内,会使引擎很难启动并有可能会熄火,C,易漏排气装置必须修理因为防止毒气进入车内,chapter_21,NA
+88,general,NA,正常行驶时车身摇动并在转向时向一边倾斜是哪一部分有故障？,点火装置,驾驶盘,刹车器,车体支持装置,D,正常行驶时车身摇动并转弯时向一边倾斜是车体支持装置故障,chapter_21,NA
+89,general,NA,在五个车线的路面上校车停在最右边车线上以便乘客上下车以下哪条车或线上的车辆需要停车？,所有车线上的车辆,与校车驶向同一方向的车辆,与校车驶向相反方向的车辆,只有在转弯车辆上的车辆,B,校车停在五车线路面最右车线与校车驶向同一方向的车辆需要停车,chapter_22,NA
+90,general,NA,学校车在北卡州的最高时速为...,55英里,45英里,35英里,25英里,B,校车在北卡的最高时速是45英里,chapter_22,NA
+91,general,NA,驾车的安全速度是...,视当时天气路面情况而定,视驾驶者的技术而定,标示的限制车速,低于标示的限制车速,A,驾车安全速度视天气和路面情况而定,chapter_23,NA
+92,general,NA,当你通过火车平交道时应该...,停车看两边安全后再通过,不需要停车,不需要停车但是要两边看看,信号灯亮起时要赶紧冲过去,A,通过铁路平交道时停车看两边安全后再通过,chapter_23,NA
+93,general,NA,为何在乡间小路要慢速行车？,因有牛通过,因有农耕车,因路面太少,因有小孩玩耍,B,乡间小道要慢行因有农耕车,chapter_23,NA
+94,general,NA,转弯或过车道前除开亮转弯灯和看侧镜子外还要...,打手势,看后镜,加速,头转过来看盲点,D,转弯或过车道前除打转向灯和看侧视镜外还要头转过肩看盲点,chapter_23,NA
+95,general,NA,何时需要戴安全带？,当开长途车时,在任何情况下驾车者与乘客,当在高速公路上开车时,当有危险时,B,在任何情况下驾驶者和乘客都要系安全带,chapter_23,NA
+96,general,NA,身体虚弱开车危险驾驶被判有罪处罚是...,失去驾照,罚款$250以下,罚款$500以下,坐牢30天,A,身体虚弱开车和危险驾驶被判罪将失去驾照,chapter_24,NA
+97,general,NA,你在消防栓旁边停车规定最少距离多少？,15尺,9尺,12尺,6尺,A,在消防栓前停车的规定距离是15英尺,chapter_24,NA
+98,general,NA,一位司机因病服药应...,驾驶前读药物说明,只在白天驾驶,改为喝酒,断续驾驶,A,因病需要服药驾驶前应读药物说明,chapter_24,NA
+99,general,NA,未满21岁的青年血液中被证实含有酒精将...,被吊销驾照30天,被吊销驾照60天,被吊销驾照6个月,被吊销驾照12个月,D,未满21岁青少年被证实血液含酒精将被吊销执照12个月,chapter_24,NA
+100,general,NA,跟车的安全距离最少是...,两车身长度,三车身长度,两秒钟行车距离,三秒钟行车距离,C,跟车的安全距离最少两秒钟行车距离,chapter_25,NA
+101,general,NA,车停在路边规定离开边石最多不得超过多少英寸？,18尺,12尺,15尺,6尺,D,车停路边规定离边石最多不得超过6英寸,chapter_25,NA
+102,general,NA,你在什么时候绝对不得超车？,他车停在人行道前等行人先过时,在交叉路口,在陡坡上,在转弯处,B,他车停在人行道前等行人先过时绝对不能超车,chapter_25,NA
+103,general,NA,驾照借给未满21岁的青年去买酒你的驾照将被吊销多久？,30天,90天,6个月,12个月,D,驾照借给未满21岁青少年去买酒你的驾照将被吊销12个月,chapter_25,NA
+104,general,NA,何时你才有路权？,你从一条私人车路开车出来,你从停车场开车出来,你已经在交通网道上,你正要开进交叉路口,C,何时有路权你已经在交通网道上,chapter_26,NA
+105,general,NA,农耕车应如何在公路上行驶？,视农耕车马力而定,时速保持15-20英里每小时,时速保持35英里每小时,时速保持10英里每小时以下,B,农耕车在公路行驶时时速应保持15-20英里,chapter_26,NA
+106,general,NA,酒精对你的驾驶能力有多大影响？,减低控制力但不妨碍判断力,饮酒太多妨害视力,反应太快因而妨害判断力,反应迟钝妨害视力及判断力,D,酒精对驾驶能力的影响是反应迟钝妨碍视力及判断,chapter_27,NA
+107,general,NA,所谓化学测验和呼吸分析器是用来测量...,血液中的含酒量,视力,驾驶能力,反应时间,A,化学测验和酒精分析器是用来测验血液中的酒精含量,chapter_27,NA
+108,general,NA,你想将车倒出车道如果附近有小孩在玩耍应该如何？,按喇叭以警告小孩,走到车后查看车道上面确无小孩,告诉小孩走开,加速开动机器警告小孩,B,倒车出车道时附近有小孩玩耍应走到车后查看车道上确保无小孩,chapter_27,NA
+109,general,NA,有他车超越你的车子这时你该如何？,保持正常速度,加速前进,与他车相同速度,速度稍慢,D,有他车超越你车时你应速度稍慢,chapter_27,NA
+110,general,NA,下面哪项血液含量BAC的解说是对的？,含酒量0.05%或以上表示你的驾驶能力受到伤害,血液含酒量即是你血液中含酒精比率,血液含酒量为0.08%即是所谓醉,所有三条解说皆正确,D,血液含量0.05%或以上表明驾驶能力受伤害血液含酒量即你血液中所含酒精比率血液含酒量0.08%即所谓醉所有三条皆正确,chapter_27,NA
+111,general,NA,当驾驶时听见救护车警报声时应...,减低车速但在你看见救护车之前不须停车,一直开车直到你看见救护车为止,加速并在下一交叉路口转弯,将车开至路边直到确定救护车不在你所行街道上,D,驾驶时听到救护车警报应将车开至路边直到确定救护车不在你所向车道,chapter_28,NA
+112,general,NA,如果你前面有一部慢驶农耕车应如何？,可以超车,按喇叭,尽量靠近农耕车等待机会超车,等农耕车靠边后在安全情况下才通过,D,如果你前面有一辆慢驶农耕车等农耕车靠边后在安全情况下才通过,chapter_28,NA
+113,general,NA,身体内负责氧化排除酒精的器官是...,脑部,心脏,肾脏,肝脏,D,身体内负责氧化排除酒精的器官是肝脏,chapter_28,NA
+114,general,NA,垃圾从窗口吹出去司机将会被...,罚款,吊销驾照,没打伤人不要紧,坐牢,A,垃圾从窗口吹出去将罚款,chapter_28,NA
+115,general,NA,你在何时方能超过双重黄色直线？,在入私人车道或小巷时,超过一辆慢速的农场用车,超过一辆慢速度的货车,如果情况许可可以超过任何车辆,A,在私人车道或小巷时方能越过双黄直线,chapter_29,NA
+116,general,NA,在闹市中你转弯前离开多少尺就应该打讯号灯？,最少60尺,最少150尺,最少200尺,最少250尺,C,在闹市中转弯前最少200英尺打开信号灯,chapter_29,NA
+117,general,NA,踩脚踏车最危险及发生意外最多的地方是...,在晚上,在高速公路上,在农耕路段,住宅区,D,自行车最危险及发生意外最多的地方是住宅区,chapter_29,NA
+118,general,NA,乱扔垃圾出车外的最低罚款是...,100元,200元,250元,300元,C,乱扔垃圾出车外最低罚款$250,chapter_29,NA
+119,general,NA,喝酒同时又吃医生开方的药物有何反应？,酒精会帮助药力治疗伤风,二者化合会加速酒精的反应,没有反应因二者不同性质,药物会降低酒精的反应,B,喝酒同时吃医生开方药会加强酒精反应,chapter_29,NA
+120,general,NA,如果道路中间有条黄色直线和一条黄色断线这条黄色直线在你的一边这时你该如何？,如果情况许可可以超车,不准超车,如果是在高速公路上可以超越此线,只在你驶近交叉路口时方能超过此线,B,道路中有实虚两黄线实线在你这边不准超车,chapter_29,NA
+121,general,NA,当高速公路入口线很短时进入交通行列最安全的方法是...,逐渐加速以使其他来车看见你,利用公路的左线以达行车速度,等候较长的交通间隔再立即加速进入,尽快利用入口加速道以达到公路速度,C,当高速公路入口线很短时进入交通行列最安全的方法是等候较长交通间隔再立刻加入,chapter_30,NA
+122,general,NA,一般来说如果交叉路口没有交通控制设备哪一辆车有权先行？,正在右转弯的车子,相反方向来的车子,在你右边的车子,在你左边的车子,C,交叉路口无交通信号灯在你右边的车先行,chapter_30,NA
+123,general,NA,当你驶进一交通被阻的交叉路口应当...,慢慢行驶直到前面交通逐渐向前移动,停止在交叉路口外直到你可以通过,尽量靠近其他车辆,按喇叭使前面的车向前开动,B,当驶到一交通被阻的交叉路口应停在交叉路口外直到你可以通过,chapter_30,NA
+124,general,NA,除酒精外还有什么药物会影响驾驶能力？,过敏药,大麻烟草,伤风药凉药,以上三个皆会,D,除酒精外还有过敏药伤风药大麻会影响驾驶能力,chapter_31,NA
+125,general,NA,当你驶近交叉路口交通灯由绿色转为黄色你该如何？,红灯快亮了准备停车,在红灯亮前加快速度通过交叉路口,立刻停止,停在交叉路口中间等待绿灯,A,当驶近交叉路口交通灯由绿转黄说明红灯快亮了准备停车,chapter_31,NA
+126,general,NA,当下大雨时车身较低部分被水淹没发动机停止应如何发动车辆？,把车钥匙转到发动车位置定住至车发动为止,把油门踩下一半然后再转钥匙发动,断续转钥匙发动,开暖气后再转钥匙发动,B,下大雨时车身较低部分被水淹没发动机停止时把油门踩下一半然后再转动钥匙发动,chapter_31,NA
+127,general,NA,当你等在交叉路口中想左转时应该...,若有车子挡住则绕至其他车后而过,打信号灯并将车轮打直,闪你的车头灯以便来车让你先过,打信号灯并将车轮转左,B,等在交叉路口想左转时应打信号灯并将车轮打直,chapter_31,NA
+128,general,NA,高速公路的加速小道AccelerationLane有何作用？,供火车开入高速公路前试验刹车之用,供驾驶人员进入高速公路前加快速度之用,供驾驶人员超过慢速车辆之用,供过路客人搭乘便车之用,B,高速公路的加速小道供驾驶者进入高速路前加快速度用,chapter_32,NA
+129,general,NA,当超车后何时可以转回右线？,当打开转弯灯后,看到其他来车的头灯,打开车头灯后,当从倒后镜中看见后面汽车的保险杠时,D,超车后什么时候可转回右线从后视镜可以看到后车保险杠时,chapter_32,NA
+130,general,NA,在交叉路口有一红灯一绿色箭头的交通灯号此时表示什么？,等见绿灯再向任何方向前进,完全停住然后向箭头所指方向前进,可向箭头所指方向小心前进其他则等绿灯,等见绿灯再向箭头所指方向前进,C,交叉路口亮一红灯一绿色箭头灯可向箭头所指方向小心前进其他则需要等待绿灯,chapter_32,NA
+131,general,NA,在晚上如何减少对面车辆车灯射来的光度？,看往方向盘的下缘,两眼转向你所行车路右边的白色行车线,戴浅色眼镜,打开你车前灯的高灯来反射对面的灯光,B,晚间开车为减少对面车灯射来的光度你可以双眼转看你所行车道右边的白色行车线,chapter_32,NA
+132,general,NA,你在私人车道开进大道时应该如何？,让大道上所有车子先走,车子部分停在大路上引起其他车注意,加快速度开上大路配合其他的速度,不问大路上有无车辆完全停止,A,从私人车道驶入大道时应让大道所有车辆先行,chapter_32,NA
+133,general,NA,你平行倒车进入两车之间以后应该如何？,尽可能将车向前移动,前轮摆直前后两车之间留些空位,倒车差不多碰到后面的车子,将前轮转向道路,B,平行倒车进入两车之间后应前轮摆直在前后两车之间留些空位,chapter_32,NA
+134,general,NA,行驶中刹车板突然下沉如何应变？,断续踩压刹车让它恢复弹性,停止驾驶,转至空档熄灭引擎,用脚尖把刹车板挑起,A,行驶中刹车板突然下沉应继续踩压刹车使其恢复弹性,chapter_33,NA
+135,general,NA,因意外汽车驶进水里应如何逃生？,打开车门游水逃生,打开车窗游水逃生,留在车内等待拯救,放弃一切,B,汽车意外落入水中应立刻打开车窗游水逃生,chapter_33,NA
+136,general,NA,醉酒或者吃药后驾驶会有何种后果？,罚款,坐监,吊销驾照,三者皆会,D,醉酒或吃药后驾驶将面临罚款吊销执照坐牢,chapter_33,NA
+137,general,NA,在公路上指示驾驶人员进入适当路线转弯是哪种设备？,闪烁红灯,路旁白色边线,闪烁黄灯,路上油漆白色箭头,D,公路上指示驾驶者进入适当路线转弯的设施是路上油漆的白色箭头,chapter_33,NA
+138,general,NA,你在转弯前应该如何？,在转弯前两车身距离时使用讯号灯,周围看看如果没有危险再行转弯,按喇叭等交叉路口没有车辆再转弯,保持正常速度前行,B,转弯前应仔细查看周围确保没有危险时再转弯,chapter_33,NA
+139,general,NA,当发觉你驾驶之汽车散发浓烟应如何处理？,浓烟会自动消散无须理会,尽快选择安全地点停车马上离开此车寻找援助,不顾一切横冲直撞以待浓烟消散,致电回家询问原因,B,当驾驶的汽车散发浓烟时要尽快选择安全地点停车并马上离开此车寻求援助,chapter_33,NA
+140,general,NA,下列哪项即使是暂时停止亦在禁止之列？,在公路桥梁上面,在车辆进出路口,火车平交道五十尺以内,消防栓前面,A,即使在哪里短暂停车都是严禁的公路桥梁上,chapter_33,NA
+141,regulatory,STOP,What does this sign mean?,SLOWER TRAFFIC KEEP RIGHT,Double Left Turns,No U Turns,STOP,D,This is a STOP sign,NA,Regulatory Signs/stop.png
+142,regulatory,YIELD,What does this sign mean?,Keep Right,EMERGENCY PARKING ONLY,YIELD,Left Turn Only,C,This is a YIELD sign,NA,Regulatory Signs/yield.png
+143,regulatory,SPEED LIMIT,What does this sign mean?,SPEED LIMIT,SLOWER TRAFFIC KEEP RIGHT,Left Turn Only,ONE WAY,A,This is a SPEED LIMIT sign,NA,Regulatory Signs/speed_limit.png
+144,regulatory,DO NOT ENTER,What does this sign mean?,LEFT LANE MUST TURN LEFT,Keep Left,ONE WAY,DO NOT ENTER,D,This is a DO NOT ENTER sign,NA,Regulatory Signs/do_not_enter.png
+145,regulatory,No Bicycles,What does this sign mean?,No Bicycles,Keep Right,DO NOT PASS,LEFT LANE MUST TURN LEFT,A,This is a No Bicycles sign,NA,Regulatory Signs/no_bicycles.png
+146,regulatory,Left Turn Only,What does this sign mean?,Left Turn Only,NO TURNS,ONE WAY,LEFT LANE MUST TURN LEFT,A,This is a Left Turn Only sign,NA,Regulatory Signs/left_turn_only.png
+147,regulatory,Thru & Left,What does this sign mean?,LEFT LANE MUST TURN LEFT,Parking Time Limit,Thru & Left,DO NOT STOP ON TRACKS,C,This is a Thru & Left sign,NA,Regulatory Signs/thru_and_left.png
+148,regulatory,LEFT LANE MUST TURN LEFT,What does this sign mean?,No Left Turn,LEFT LANE MUST TURN LEFT,No Bicycles,No Right Turn,B,This is a LEFT LANE MUST TURN LEFT sign,NA,Regulatory Signs/left_lane_must_turn_left.png
+149,regulatory,No Left Turn,What does this sign mean?,No Left Turn,DO NOT STOP ON TRACKS,Left Turn Only,RAILROAD CROSSING,A,This is a No Left Turn sign,NA,Regulatory Signs/no_left_turn.png
+150,regulatory,ONE WAY,What does this sign mean?,DO NOT STOP ON TRACKS,EMERGENCY PARKING ONLY,ONE WAY,KEEP OFF MEDIAN,C,This is a ONE WAY sign,NA,Regulatory Signs/one_way.png
+151,regulatory,Keep Left,What does this sign mean?,DO NOT STOP ON TRACKS,Keep Left,Reserved Parking,Thru & Left,B,This is a Keep Left sign,NA,Regulatory Signs/keep_left.png
+152,regulatory,Keep Right,What does this sign mean?,Keep Right,DO NOT ENTER,DO NOT PASS,YIELD,A,This is a Keep Right sign,NA,Regulatory Signs/keep_right.png
+153,regulatory,No Right Turn,What does this sign mean?,SLOWER TRAFFIC KEEP RIGHT,No Right Turn,EMERGENCY PARKING ONLY,RAILROAD CROSSING,B,This is a No Right Turn sign,NA,Regulatory Signs/no_right_turn.png
+154,regulatory,NO TURNS,What does this sign mean?,SPEED LIMIT,RAILROAD CROSSING,BUS STOP,NO TURNS,D,This is a NO TURNS sign,NA,Regulatory Signs/no_turns.png
+155,regulatory,No U Turns,What does this sign mean?,RAILROAD CROSSING,No U Turns,SPEED LIMIT,NO TURNS,B,This is a No U Turns sign,NA,Regulatory Signs/no_u_turns.png
+156,regulatory,Double Left Turns,What does this sign mean?,SPEED LIMIT,BUS STOP,Double Left Turns,Reserved Parking,C,This is a Double Left Turns sign,NA,Regulatory Signs/double_left_turns.png
+157,regulatory,KEEP OFF MEDIAN,What does this sign mean?,LEFT LANE MUST TURN LEFT,ONE WAY,SLOWER TRAFFIC KEEP RIGHT,KEEP OFF MEDIAN,D,This is a KEEP OFF MEDIAN sign,NA,Regulatory Signs/keep_off_median.png
+158,regulatory,DO NOT PASS,What does this sign mean?,Keep Right,ONE WAY,DO NOT PASS,Reserved Parking,C,This is a DO NOT PASS sign,NA,Regulatory Signs/do_not_pass.png
+159,regulatory,PASS WITH CARE,What does this sign mean?,SPEED LIMIT,NO TURNS,PASS WITH CARE,Reserved Parking,C,This is a PASS WITH CARE sign,NA,Regulatory Signs/pass_with_care.png
+160,regulatory,SLOWER TRAFFIC KEEP RIGHT,What does this sign mean?,ONE WAY Arrow,KEEP OFF MEDIAN,SLOWER TRAFFIC KEEP RIGHT,No U Turns,C,This is a SLOWER TRAFFIC KEEP RIGHT sign,NA,Regulatory Signs/slower_traffic_keep_right.png
+161,regulatory,EMERGENCY PARKING ONLY,What does this sign mean?,No U Turns,BUS STOP,Left Turn Only,EMERGENCY PARKING ONLY,D,This is a EMERGENCY PARKING ONLY sign,NA,Regulatory Signs/emergency_parking_only.png
+162,regulatory,Parking Time Limit,What does this sign mean?,Left Turn Only,Parking Time Limit,No Bicycles,ONE WAY,B,This is a Parking Time Limit sign,NA,Regulatory Signs/one_hour_parking.png
+163,regulatory,Reserved Parking,What does this sign mean?,NO TURNS,Reserved Parking,Keep Right,DO NOT ENTER,B,This is a Reserved Parking sign,NA,Regulatory Signs/reserved_parking.png
+164,regulatory,BUS STOP,What does this sign mean?,Parking Time Limit,Thru & Left,No Left Turn,BUS STOP,D,This is a BUS STOP sign,NA,Regulatory Signs/no_parking_bus_stop.png
+165,regulatory,ONE WAY Arrow,What does this sign mean?,BUS STOP,SLOWER TRAFFIC KEEP RIGHT,PASS WITH CARE,ONE WAY Arrow,D,This is a ONE WAY Arrow sign,NA,Regulatory Signs/one_way.png
+166,regulatory,RAILROAD CROSSING,What does this sign mean?,Double Left Turns,LEFT LANE MUST TURN LEFT,RAILROAD CROSSING,SLOWER TRAFFIC KEEP RIGHT,C,This is a RAILROAD CROSSING sign,NA,Regulatory Signs/railroad-crossing2.png
+167,regulatory,DO NOT STOP ON TRACKS,What does this sign mean?,DO NOT STOP ON TRACKS,SLOWER TRAFFIC KEEP RIGHT,SPEED LIMIT,LEFT LANE MUST TURN LEFT,A,This is a DO NOT STOP ON TRACKS sign,NA,Regulatory Signs/do_not_stop_on_tracks.png
+168,warning,Signal Ahead,What does this sign mean?,ROAD CLOSED,Winding Road,Signal Ahead,Side Road,C,This is a Signal Ahead sign,NA,Warning Signs/signal_ahead.png
+169,warning,Merging Traffic,What does this sign mean?,Lane Drop,Two Way Traffic,Merging Traffic,Side Road,C,This is a Merging Traffic sign,NA,Warning Signs/merging_traffic.png
+170,warning,Lane Drop,What does this sign mean?,Lane Drop,Divided Highway Ends,Two Way Traffic,Cattle Crossing,A,This is a Lane Drop sign,NA,Warning Signs/lane_drop.png
+171,warning,Divided Highway,What does this sign mean?,Right Turn,ROAD CLOSED,Divided Highway,Signal Ahead,C,This is a Divided Highway sign,NA,Warning Signs/divided_highway.png
+172,warning,Cattle Crossing,What does this sign mean?,Stop Ahead,Curve Right,Side Road Right,Cattle Crossing,D,This is a Cattle Crossing sign,NA,Warning Signs/cattle_crossing.png
+173,warning,Deer Crossing,What does this sign mean?,School,Farm Machinery,Deer Crossing,YIELD AHEAD,C,This is a Deer Crossing sign,NA,Warning Signs/deer_crossing.png
+174,warning,Low Clearance,What does this sign mean?,Low Clearance,School Crossing,Farm Machinery,Cross Road,A,This is a Low Clearance sign,NA,Warning Signs/low_clearance.png
+175,warning,NO PASSING ZONE,What does this sign mean?,Side Road,School Crossing,NO PASSING ZONE,Winding Road,C,This is a NO PASSING ZONE sign,NA,Warning Signs/no_passing_zone.png
+176,warning,Right Turn,What does this sign mean?,Right Turn,School,Winding Road,Railroad Crossing,A,This is a Right Turn sign,NA,Warning Signs/right_turn.png
+177,warning,Curve Right,What does this sign mean?,ROAD CLOSED,Hill,Curve Right,School Crossing,C,This is a Curve Right sign,NA,Warning Signs/curve_right.png
+178,warning,Farm Machinery,What does this sign mean?,Farm Machinery,Curve Right,School Crossing,SOFT SHOULDER,A,This is a Farm Machinery sign,NA,Warning Signs/farm_machinery.png
+179,warning,Side Road,What does this sign mean?,Right Turn,Low Clearance,Stop Ahead,Side Road,D,This is a Side Road sign,NA,Warning Signs/side_road.png
+180,warning,Divided Highway Ends,What does this sign mean?,Cattle Crossing,Divided Highway Ends,SOFT SHOULDER,Winding Road,B,This is a Divided Highway Ends sign,NA,Warning Signs/divided_highway_ends.png
+181,warning,Two Way Traffic,What does this sign mean?,Two Way Traffic,Curve Right,Divided Highway,Merging Traffic,A,This is a Two Way Traffic sign,NA,Warning Signs/two_way_traffic.png
+182,warning,Hill,What does this sign mean?,Hill,NO PASSING ZONE,ROAD CLOSED,Stop Ahead,A,This is a Hill sign,NA,Warning Signs/hill.png
+183,warning,Slippery When Wet,What does this sign mean?,Right Turn,Slippery When Wet,Low Clearance,Deer Crossing,B,This is a Slippery When Wet sign,NA,Warning Signs/slippery_when_wet.png
+184,warning,Bike Crossing,What does this sign mean?,NO PASSING ZONE,Railroad Crossing,Stop Ahead,Bike Crossing,D,This is a Bike Crossing sign,NA,Warning Signs/bike_crossing.png
+185,warning,SOFT SHOULDER,What does this sign mean?,SOFT SHOULDER,Bike Crossing,Merging Traffic,Signal Ahead,A,This is a SOFT SHOULDER sign,NA,Warning Signs/soft_shoulder.png
+186,warning,Side Road Right,What does this sign mean?,Bike Crossing,Side Road Right,Lane Drop,SOFT SHOULDER,B,This is a Side Road Right sign,NA,Warning Signs/side_road.png
+187,warning,Cross Road,What does this sign mean?,Cross Road,School Crossing,Divided Highway Ends,Curve Right,A,This is a Cross Road sign,NA,Warning Signs/cross_road.png
+188,warning,Winding Road,What does this sign mean?,Slippery When Wet,School Crossing,Winding Road,Deer Crossing,C,This is a Winding Road sign,NA,Warning Signs/winding_road.png
+189,warning,Stop Ahead,What does this sign mean?,ROAD CLOSED,Lane Drop,Stop Ahead,Slippery When Wet,C,This is a Stop Ahead sign,NA,Warning Signs/stop_ahead.png
+190,warning,YIELD AHEAD,What does this sign mean?,Railroad Crossing,Right Turn,Low Clearance,YIELD AHEAD,D,This is a YIELD AHEAD sign,NA,Warning Signs/yield_ahead.png
+191,warning,ROAD CLOSED,What does this sign mean?,Right Turn,ROAD CLOSED,Farm Machinery,Side Road,B,This is a ROAD CLOSED sign,NA,Warning Signs/road_closed_ahead.png
+192,warning,School,What does this sign mean?,Signal Ahead,School,Side Road Right,Side Road,B,This is a School sign,NA,Warning Signs/school.png
+193,warning,School Crossing,What does this sign mean?,Lane Drop,Side Road,School Crossing,SOFT SHOULDER,C,This is a School Crossing sign,NA,Warning Signs/school_crossing.png
+194,warning,Railroad Crossing,What does this sign mean?,School,Bike Crossing,SOFT SHOULDER,Railroad Crossing,D,This is a Railroad Crossing sign,NA,Warning Signs/railroad-crossing.png
+195,highway,U.S. Highway Route Marker,这个盾形标志表示什么？,州际公路,美国联邦公路,州级公路,县级公路,B,白色盾形标志上有黑色数字表示美国联邦公路的编号,NA,Highway Signs/us_highway_route_marker.png
+196,highway,N.C Route Marker,这个带有NC字样的标志表示什么？,美国公路,北卡州级公路,县级道路,私人道路,B,带有NC字样的标志表示北卡罗来纳州级公路编号,NA,Highway Signs/nc_route_marker.png
+197,highway,N.C. Secondary Road Sign,这个五边形标志表示什么？,主干道,州际公路,北卡次级公路,联邦公路,C,五边形标志表示北卡罗来纳州的次级公路或县级道路,NA,Highway Signs/nc_secondary_road_sign.png
+198,highway,Interstate Highway Sign,这个红蓝色盾形标志表示什么？,州级公路,州际高速公路,国道,收费公路,B,红蓝色盾形标志表示州际高速公路系统,NA,Highway Signs/interstate_highway_sign.png
+199,highway,Rest Area,这个蓝色标志表示什么？,医院,加油站,休息区,收费站,C,蓝色标志显示前方有休息区可以停车休息,NA,Highway Signs/rest_area.png
+200,highway,Hospital,这个蓝色H标志表示什么？,停车场,医院,酒店,高速公路,B,蓝色H标志表示附近有医院,NA,Highway Signs/hospital.png
+201,highway,State Park,这个棕色标志表示什么？,国家公园,州立公园,森林保护区,野生动物保护区,B,棕色标志表示北卡州立公园的位置,NA,Highway Signs/state_park.png
+202,highway,Interstate Exit Sign,这个绿色标志显示EXIT和数字表示什么？,里程标记,州际公路出口,收费站,服务区,B,绿色标志显示州际公路的出口编号和方向,NA,Highway Signs/interstate_exit_sign.png
+203,highway,Interstate Route Sign,这个绿色标志显示城市名称和箭头表示什么？,行驶方向和距离,限速信息,收费信息,道路编号,A,绿色标志指示前往目的地城市的方向和距离,NA,Highway Signs/interstate_route_sign.png
